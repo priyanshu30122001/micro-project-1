@@ -26,6 +26,7 @@
 .text-section h5{
     margin-left: 2vw;
     color: white;
+    font-weight: 500;
 }
 .image-section{
   width: 50vw;
