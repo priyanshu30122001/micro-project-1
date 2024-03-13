@@ -62,6 +62,8 @@ input{
     padding: 2vh;
     border: solid 3px black;
     border-radius: 8px;
+    font-family: 600;
+    font-size: 1.1vw;
 }
 button{
     width: 14vw;
@@ -70,5 +72,7 @@ button{
     background-color: rgba(40, 40, 40, 1);
     border:none;
     border-radius: 8px;
+    font-family: 600;
+    font-size: 1.1vw;
 
 }
